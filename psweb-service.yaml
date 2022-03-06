@@ -4,7 +4,7 @@ metadata:
         name: psweb
 spec:
     selector:
-            env: develop
+            env: staging
             projet: devops-training
     type: NodePort
     ports:
