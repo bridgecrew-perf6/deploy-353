@@ -5,6 +5,7 @@ metadata:
 spec:
     selector:
             env: staging
+            version: v1
             projet: devops-training
     type: NodePort
     ports:
