@@ -5,6 +5,7 @@ metadata:
 spec:
     selector:
             env: production
+            version: v1
             projet: devops-training
     type: NodePort
     ports:
